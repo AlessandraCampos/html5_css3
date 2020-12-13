@@ -1,0 +1,25 @@
+body{
+    background:#F5B7B1;
+    margin-left: 30px;
+    margin-right: 200px;
+}
+header{
+    margin-top: 70px;
+}
+h1{
+    color: black;
+    font-family: fantasy;
+}
+h2{
+    color:#FDF2E9;
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
+
+.img_padrao{
+    margin-bottom: 30px;
+    width: 300px;
+}
